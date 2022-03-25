@@ -23,9 +23,10 @@ hello git! hello HAZ!
 hello git! hello HAZ!
 hello git! hello HAZ!
 hello git! hello HAZ!
-hello git! hello HAZ! master test
 hello git! hello HAZ!
-i1
+hello git! hello HAZ! master test
+hello git! hello HAZ! hot-fix2
+1
 2
 3
 4
