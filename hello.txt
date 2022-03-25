@@ -30,4 +30,4 @@ hello git! hello HAZ!
 3
 4
 5
-6
+6 hot-fix
