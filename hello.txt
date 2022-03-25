@@ -24,7 +24,7 @@ hello git! hello HAZ!
 hello git! hello HAZ!
 hello git! hello HAZ!
 hello git! hello HAZ!
-hello git! hello HAZ!
+hello git! hello HAZ! hot-fix2
 1
 2
 3
